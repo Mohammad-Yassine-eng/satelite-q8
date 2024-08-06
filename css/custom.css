@@ -359,7 +359,8 @@ body {
   text-align: center;
   font-size: 17px;
 }
-.footer span {
+.footer span a {
+  text-decoration: none;
   font-weight: bold;
   color: var(--yellow-color);
 }
