@@ -1,6 +1,6 @@
 :root {
-  --main-color:  #0fbd8e;
-  --yellow-color:#fff700;
+  --main-color: #0fbd8e;
+  --yellow-color: #fff700;
   --blue-color: #a200ff;
   --orange-color: #ff9900;
   --section-color: #eff7fa;
@@ -233,7 +233,7 @@ body {
 
 /* About Start  */
 .about {
-  padding-top:60px;
+  padding-top: 60px;
   padding-bottom: 120px;
 }
 .about .about-content {
@@ -260,14 +260,14 @@ body {
 }
 .about .about-content .image::before {
   content: "";
-    position: absolute;
-    background-color: #ebeced;
-    width: 300px;
-    height: 100%;
-    border-bottom: 80px solid #ebeced;
-    top: -40px;
-    right: -83px;
-    z-index: -2;
+  position: absolute;
+  background-color: #ebeced;
+  width: 300px;
+  height: 100%;
+  border-bottom: 80px solid #ebeced;
+  top: -40px;
+  right: -83px;
+  z-index: -2;
 }
 .about .about-content .image::after {
   content: "";
