@@ -6,6 +6,7 @@
 }
 body {
   font-family: "Fustat", sans-serif;
+  direction: rtl;
 }
 .main-btn {
   background-color: var(--orange-color);
@@ -51,6 +52,7 @@ body {
 /* Start Navbar */
 .navbar {
   background-color: var(--main-color);
+  direction: ltr;
 }
 .navbar .navbar-nav .nav-link {
   color: rgb(0, 0, 0);
